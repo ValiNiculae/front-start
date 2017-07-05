@@ -1,0 +1,10 @@
+{
+    "name": "blade/new-project",
+    "authors": [
+        {
+            "name": "Valentin Niculae",
+            "email": "blade150388@yahoo.com"
+        }
+    ],
+    "require": {}
+}
